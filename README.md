@@ -41,14 +41,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rizwanbinakbar&show_icons=true&theme=radical&count_private=true" width="450" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanbinakbar&layout=compact&theme=radical&hide=html" width="300"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanbinakbar&theme=radical&ring=DD2727&fire=DD2727" />
-</p>
+<div align="center"> <a href="https://github.com/rizwanbinakbar"> <img src="https://github-readme-stats.vercel.app/api?username=rizwanbinakbar&show_icons=true&theme=radical&count_private=true" width="450" alt="Rizwan's GitHub Stats" /> </a>
 
+<br><br>
+<a href="https://github.com/rizwanbinakbar"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanbinakbar&layout=compact&theme=radical&hide=html" width="300" alt="Top Languages" /> </a>
+
+<br><br>
+<a href="https://github.com/rizwanbinakbar"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanbinakbar&theme=radical&ring=DD2727&fire=DD2727" width="450" alt="GitHub Streak" /> </a> </div>
 
 ---
 
