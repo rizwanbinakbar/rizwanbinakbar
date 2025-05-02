@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rizwan Khan 👋</h1>
+<h1 align="center">Hi there, I'm Rizwan Khan </h1>
 
 <p align="center">
   🎓 <b>Data Engineer</b> to be | 💡 Passionate about <b>AI & Machine Learning</b> | 🛠️ Builder of pipelines and insights
@@ -9,8 +9,8 @@
 ## 🧠 About Me
 
 - 💻 Currently pursuing a **Bachelor's in Artificial Intelligence**
-- 📊 Focused on **Data Engineering** — learning through hands-on projects and the **IBM Data Engineering Professional Certificate & real-world Projects**
-- ⚙️ Exploring **ETL pipelines**, **SQL**, **Python**, **data modeling**, and **analytics**
+- 📊 Focused on **Data Engineering** — learning through hands-on projects and the **IBM Data Engineering Professional Certificate**
+- ⚙️ Exploring **ETL pipelines**, **SQL**, **Python**, **data modeling**, **visualization** and **analytics**
 
 ---
 
