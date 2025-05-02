@@ -1,27 +1,74 @@
-Hi, I'm Rizwan Khan 👋
+<h1 align="center">Hi there, I'm Rizwan Khan 👋</h1>
 
-I'm passionate about AI, Machine Learning, and Data. I'm currently focused on Data Engineering, learning SQL, and Python through the IBM Data Engineering Professional Certificate. I'm also diving deep into ETL processes, databases, and building data pipelines.
-🔧 Skills & Technologies
+<p align="center">
+  🎓 Aspiring <b>Data Engineer</b> | 💡 Passionate about <b>AI & Machine Learning</b> | 🛠️ Builder of pipelines and insights
+</p>
 
-    Programming Languages: Python, SQL
-    Technologies: Machine Learning, ETL, Data Pipelines, Databases
-    Tools: Data Analysis, Web Scraping, pandas, scikit-learn, SQL databases, etc.
+---
 
-🌱 Current Focus
+## 🧠 About Me
 
-    Learning Data Engineering and SQL to build a strong foundation in managing and processing data.
-    Working towards my goal of becoming a Data Engineer first, and eventually transitioning into Machine Learning Engineering.
+- 💻 Currently pursuing a **Bachelor's in Artificial Intelligence**
+- 📊 Focused on **Data Engineering** — learning through hands-on projects and the **IBM Data Engineering Professional Certificate & real-world Projects**
+- ⚙️ Exploring **ETL pipelines**, **SQL**, **Python**, **data modeling**, and **analytics**
 
-💼 Notable Projects
+---
 
-    Titanic Survival Prediction Model: Built a model to predict Titanic survival using multiple machine learning algorithms.
-    ETL Project: Worked on an ETL pipeline project involving the biggest banks and the largest economies, focusing on data integration and analysis.
+## 🔧 Tech Stack & Tools
 
-🎯 Goals
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Scraping-006400?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Pipelines-FF6F00?style=for-the-badge" />
+</p>
 
-    Short-term: Become a Data Engineer and gain hands-on industry experience.
-    Long-term: Transition into Machine Learning Engineering and work on cutting-edge AI projects.
+---
 
-📚 Interests
+## 🌱 Currently Learning
 
-When I’m not coding, I enjoy reading crime and dark psychology thrillers, fantasy books, and investigation novels. I’m also a huge fan of chess and football
+- 📘 **SQL** (advanced queries, performance tuning)
+- 🧩 **ETL workflows** and **data warehouse design**
+- 🐍 Deepening Python skills (especially for data manipulation)
+- 🛠️ Exploring **Airflow**, **Power BI**, and **data orchestration**
+
+---
+
+## 💼 Notable Projects
+
+| Project | Description |
+|--------|-------------|
+| 📊 **Retail Sales SQL Report** | Created advanced SQL views and KPI dashboards for customer and product behavior in a retail dataset. |
+🛠 3-Layer Data Warehouse Project	Designed a data warehouse architecture using Bronze → Silver → Gold layers. Ingested data from CRM and ERP CSV sources, performed cleaning, transformation, and built analytics-ready data marts.
+| 🏦 **ETL Project - Global Finance** | Built a data pipeline involving major banks & economies, integrating and transforming raw data for analysis. |
+
+
+---
+
+## 🎯 Goals
+
+- ✅ **Short-term**: Become a **Data Engineer**, work on real-world pipelines & projects
+- 🚀 **Long-term**: Transition into **Machine Learning Engineering** and contribute to impactful AI systems
+
+---
+
+## 📚 Outside of Tech
+
+When I’m not immersed in code or data, I enjoy:
+
+- 🧠 Reading **crime, dark psychology, and fantasy thrillers**
+- ♟️ Playing **chess**
+- ⚽ Watching & playing **football**
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizwanbinakbar&show_icons=true&theme=default&hide=issues&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanbinakbar&layout=compact&hide=html" />
+</p>
+
+---
+
+> ✨ Let’s connect and grow together. Feel free to explore my repositories, contribute, or just say hi!
