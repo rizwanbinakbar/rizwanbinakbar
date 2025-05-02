@@ -16,8 +16,7 @@
 
 ## 🔧 Tech Stack & Tools
 
-<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Data%20Pipelines-4B8BBE?style=for-the-badge&logo=data&logoColor=white" /> <img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=airbyte&logoColor=white" /> </p>
-
+<p align="center"> <img src="https://img.icons8.com/color/96/000000/python--v1.png" title="Python" /> <img src="https://img.icons8.com/ios-filled/100/00758F/mysql-logo.png" title="MySQL" /> <img src="https://img.icons8.com/color/96/000000/tensorflow.png" title="TensorFlow" /> <img src="https://img.icons8.com/external-soft-fill-juicy-fish/100/000000/external-pandas-big-data-soft-fill-soft-fill-juicy-fish.png" title="Pandas" /> <img src="https://img.icons8.com/color/96/000000/power-bi.png" title="Power BI" /> <img src="https://img.icons8.com/external-flat-juicy-fish/96/000000/external-data-pipeline-big-data-flat-flat-juicy-fish.png" title="Data Pipelines" /> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/96/000000/external-etl-computer-programming-flaticons-lineal-color-flat-icons.png" title="ETL" /> </p>
 ---
 
 ## 🌱 Currently Learning
