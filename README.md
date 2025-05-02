@@ -34,7 +34,7 @@
 | Project | Description |
 |--------|-------------|
 | 📊 **Retail Sales SQL Report** | Created advanced SQL views and KPI dashboards for customer and product behavior in a retail dataset. |
-🛠 3-Layer Data Warehouse Project	Designed a data warehouse architecture using Bronze → Silver → Gold layers. Ingested data from CRM and ERP CSV sources, performed cleaning, transformation, and built analytics-ready data marts.
+🛠 3-Layer Data Warehouse Project	| Designed a data warehouse architecture using Bronze → Silver → Gold layers. Ingested data from CRM and ERP CSV sources, performed cleaning, transformation, and built analytics-ready data marts.|
 | 🏦 **ETL Project - Global Finance** | Built a data pipeline involving major banks & economies, integrating and transforming raw data for analysis. |
 
 
