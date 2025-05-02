@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Rizwan Khan 👋</h1>
 
 <p align="center">
-  🎓 Aspiring <b>Data Engineer</b> | 💡 Passionate about <b>AI & Machine Learning</b> | 🛠️ Builder of pipelines and insights
+  🎓 <b>Data Engineer</b> to be | 💡 Passionate about <b>AI & Machine Learning</b> | 🛠️ Builder of pipelines and insights
 </p>
 
 ---
@@ -47,6 +47,20 @@
 
 ---
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizwanbinakbar&show_icons=true&theme=radical&count_private=true" width="450" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanbinakbar&layout=compact&theme=radical&hide=html" width="300"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanbinakbar&theme=radical&ring=DD2727&fire=DD2727" />
+</p>
+
+
+---
+
 ## 🎯 Goals
 
 - ✅ **Short-term**: Become a **Data Engineer**, work on real-world pipelines & projects
@@ -62,19 +76,5 @@ When I’m not immersed in code or data, I enjoy:
 - ♟️ Playing **chess**
 - ⚽ Watching & playing **football**
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizwanbinakbar&show_icons=true&theme=radical&count_private=true" width="450" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanbinakbar&layout=compact&theme=radical&hide=html" width="300"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanbinakbar&theme=radical&ring=DD2727&fire=DD2727" />
-</p>
-
-
----
 
 > ✨ Let’s connect and grow together. Feel free to explore my repositories, contribute, or just say hi!
