@@ -14,10 +14,9 @@
 
 ---
 
----
+
 ## 🔧 Tech Stack & Tools
-<p align="center"> <img src="https://img.icons8.com/fluency/96/python.png" title="Python" /> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png" title="MySQL" /> <img src="https://img.icons8.com/color/96/tensorflow.png" title="TensorFlow" /> <img src="https://img.icons8.com/color/96/pandas.png" title="Pandas" /> <img src="https://img.icons8.com/color/96/power-bi.png" title="Power BI" /> <img src="https://img.icons8.com/external-flat-juicy-fish/96/external-data-pipeline-big-data-flat-flat-juicy-fish.png" title="Data Pipelines" /> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/96/external-etl-computer-programming-flaticons-lineal-color-flat-icons.png" title="ETL" /> </p>
----
+<p align="center"> <img src="https://img.icons8.com/fluency/96/python.png" title="Python" /> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png" title="MySQL" /> <img src="https://img.icons8.com/color/96/tensorflow.png" title="TensorFlow" /> <img src="https://img.icons8.com/color/96/pandas.png" title="Pandas" /> <img src="https://img.icons8.com/color/96/power-bi.png" title="Power BI" /> <img src="https://img.icons8.com/external-flat-juicy-fish/96/external-data-pipeline-big-data-flat-flat-juicy-fish.png" title="Data Pipelines" /> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/96/external-etl-computer-programming-flaticons-lineal-color-flat-icons.png" title="ETL" /> </p>---
 
 ## 🌱 Currently Learning
 
