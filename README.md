@@ -65,9 +65,15 @@ When I’m not immersed in code or data, I enjoy:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizwanbinakbar&show_icons=true&theme=default&hide=issues&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanbinakbar&layout=compact&hide=html" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rizwanbinakbar&show_icons=true&theme=radical&count_private=true" width="450" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanbinakbar&layout=compact&theme=radical&hide=html" width="300"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanbinakbar&theme=radical&ring=DD2727&fire=DD2727" />
+</p>
+
 
 ---
 
