@@ -20,6 +20,7 @@
   <img src="assets/icons8-mysql-24.png" title="MySQL" />
   <img src="assets/icons8-tensorflow-48.png" title="TensorFlow" />
   <img src="assets/icons8-pandas-48.png" title="Pandas" />
+  <img src="assets/icons8-database.gif" title="Pandas" />
   <img src="assets/icons8-power-bi-2021-48.png" title="Power BI" />
 </p>
 
