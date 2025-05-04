@@ -14,18 +14,13 @@
 
 ---
 
-
 ## 🔧 Tech Stack & Tools
 <p align="center">
-  <img src="https://img.icons8.com/fluency/96/python.png" title="Python" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png" title="MySQL" />
-  <img src="https://img.icons8.com/color/96/tensorflow.png" title="TensorFlow" />
-  <img src="https://img.icons8.com/color/96/pandas.png" title="Pandas" />
-  <img src="https://img.icons8.com/color/96/power-bi.png" title="Power BI" />
-</p>
-<p align="center">
-  <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/96/external-data-engineer-big-data-flatart-icons-flat-flatarticons.png" title="Data Engineering" />
-  <img src="https://img.icons8.com/external-icongeek26-outline-icongeek26/96/external-data-integration-data-analytics-icongeek26-outline-icongeek26.png" title="ETL Pipelines" />
+  <img src="assets/icons8-python.gif" title="Python" />
+  <img src="assets/icons8-mysql-24.png" title="MySQL" />
+  <img src="assets/icons8-tensorflow-48.png" title="TensorFlow" />
+  <img src="assets/icons8-pandas-48.png" title="Pandas" />
+  <img src="assets/icons8-power-bi-2021-48.png" title="Power BI" />
 </p>
 
 ---
