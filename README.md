@@ -8,9 +8,19 @@ Innovative Data Engineer and Analyst with hands-on experience in real-world proj
 • Expertise in Advanced SQL  
 • In-depth understanding of ETL pipelines, Data Modeling, Orchestration & Warehousing  
 
-📬 **Email**: rizwanforbuissnes@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/rizwanbinakbar](https://www.linkedin.com/in/rizwanbinakbar/)  
-📊 **Kaggle**: [kaggle.com/rizwanbinakbar](https://www.kaggle.com/rizwanbinakbar/)
+### 🌐 Socials
+
+<p align="left">
+  <a href="https://www.github.com/rizwanbinakbar" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/rizwanbinakbar/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.kaggle.com/rizwanbinakbar" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="32" height="32" style="filter: invert(1);" />
+  </a>
+</p>
 
 ---
 
