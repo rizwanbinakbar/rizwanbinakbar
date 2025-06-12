@@ -38,7 +38,6 @@ Innovative Data Engineer and Analyst with hands-on experience in real-world proj
 
 ##  Skills
 
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   &nbsp;&nbsp;&nbsp;
@@ -54,8 +53,7 @@ Innovative Data Engineer and Analyst with hands-on experience in real-world proj
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
 </p>
-="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanbinakbar&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
 
 ---
 ## My Github Stats
