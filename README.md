@@ -14,15 +14,15 @@ Innovative Data Engineer and Analyst with hands-on experience in real-world proj
 
 <p align="left">
   <a href="https://www.github.com/rizwanbinakbar" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="42" height="22" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rizwanbinakbar/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="42" height="42" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/rizwanbinakbar" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/windows/32/000000/kaggle.png" width="32" height="32" alt="Kaggle" />
+    <img src="https://img.icons8.com/windows/32/000000/kaggle.png" width="42" height="42" alt="Kaggle" />
   </a>
 </p>
 
