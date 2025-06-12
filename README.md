@@ -14,7 +14,7 @@ Innovative Data Engineer and Analyst with hands-on experience in real-world proj
 
 <p align="left">
   <a href="https://www.github.com/rizwanbinakbar" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="42" height="22" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="42" height="42" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rizwanbinakbar/" target="_blank" rel="noreferrer">
