@@ -13,7 +13,6 @@ Innovative Data Engineer and Analyst with hands-on experience in real-world proj
 ###  Socials
 
 <p align="left">
-<p align="left">
   <a href="https://www.github.com/rizwanbinakbar" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
@@ -23,9 +22,10 @@ Innovative Data Engineer and Analyst with hands-on experience in real-world proj
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/rizwanbinakbar" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-logo-color-tal-revivo.png" width="32" height="32" alt="Kaggle" />
+    <img src="https://img.icons8.com/windows/32/000000/kaggle.png" width="32" height="32" alt="Kaggle" />
   </a>
 </p>
+
 
 ---
 
