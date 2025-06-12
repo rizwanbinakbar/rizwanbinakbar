@@ -1,7 +1,7 @@
 <h1 align="center">I'm Rizwan Khan </h1>
 
 <p align="center">
-   <b>Data Engineer</b> to be | Passionate about <b>AI & Machine Learning</b> | 🛠️ Builder of pipelines and insights
+   <b>Data Analytics Engineer</b> | <b>AI & Machine Learning</b> | 🛠️ Builder of pipelines and insights
 </p>
 
 ---
@@ -9,8 +9,8 @@
 ##  About Me
 
 -  Currently pursuing a **Bachelor's in Artificial Intelligence @ Emerson University**
--  Focused on **Data Engineering** — learning through hands-on projects and the **IBM Data Engineering Professional Certificate**
-- ⚙ Exploring **ETL pipelines**, **SQL**, **Python**, **data modeling**, **visualization** and **analytics**
+-  Focused on **Data Engineering** — learning through hands-on projects and various Certifications
+-  Exploring **ETL pipelines**, **SQL**, **Python**, **Data Modeling**, **Visualization** and **Analytics**
 
 ---
 
@@ -29,9 +29,9 @@
 ##  Currently Learning
 
 -  **SQL** (advanced queries, performance tuning)
--  **ETL workflows** and **data warehouse design**
+-  **ETL workflows** and **Data Warehouse Design**
 -  Deepening Python skills (especially for data manipulation)
-- 🛠 Exploring **Airflow**, **Power BI**, and **data orchestration**
+-  Exploring **Airflow**, **Power BI**, and **Data Orchestration**
 
 ---
 
