@@ -16,12 +16,12 @@
 
 ## Tech Stack & Tools
 <p align="center">
-  <img src="https://img.icons8.com/clouds/100/python.png" title="Python" height="64" style="margin: 10px;" />
-  <img src="https://img.icons8.com/color/96/mysql-logo.png" title="MySQL" height="64" style="margin: 10px;" />
-  <img src="https://img.icons8.com/color/96/tensorflow.png" title="TensorFlow" height="64" style="margin: 10px;" />
-  <img src="https://img.icons8.com/color/96/pandas.png" title="Pandas" height="64" style="margin: 10px;" />
-  <img src="https://img.icons8.com/ios-filled/100/database.png" title="Database" height="64" style="margin: 10px;" />
-  <img src="https://img.icons8.com/color/96/power-bi.png" title="Power BI" height="64" style="margin: 10px;" />
+  <img src="https://img.icons8.com/clouds/100/python.png" title="Python" height="94" style="margin: 20px;" />
+  <img src="https://img.icons8.com/color/96/mysql-logo.png" title="MySQL" height="94" style="margin: 20px;" />
+  <img src="https://img.icons8.com/color/96/tensorflow.png" title="TensorFlow" height="94" style="margin: 20px;" />
+  <img src="https://img.icons8.com/color/96/pandas.png" title="Pandas" height="94" style="margin: 20px;" />
+  <img src="https://img.icons8.com/ios-filled/100/database.png" title="Database" height="94" style="margin: 20px;" />
+  <img src="https://img.icons8.com/color/96/power-bi.png" title="Power BI" height="94" style="margin: 20px;" />
 </p>
 
 ---
