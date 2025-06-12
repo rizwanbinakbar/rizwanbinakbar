@@ -18,7 +18,7 @@ Innovative Data Engineer and Analyst with hands-on experience in real-world proj
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rizwanbinakbar/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png" width="42" height="42" alt="LinkedIn" />
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png" width="52" height="52" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/rizwanbinakbar" target="_blank" rel="noreferrer">
