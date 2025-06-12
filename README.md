@@ -8,6 +8,8 @@ Innovative Data Engineer and Analyst with hands-on experience in real-world proj
 • Expertise in Advanced SQL  
 • In-depth understanding of ETL pipelines, Data Modeling, Orchestration & Warehousing  
 
+---
+
 ### 🌐 Socials
 
 <p align="left">
