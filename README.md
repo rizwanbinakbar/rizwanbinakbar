@@ -16,12 +16,12 @@
 
 ## Tech Stack & Tools
 <p align="center">
-  <img src="https://img.icons8.com/clouds/100/python.png" title="Python" />
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL" />
-  <img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow" />
-  <img src="https://img.icons8.com/color/48/pandas.png" title="Pandas" />
-  <img src="https://img.icons8.com/ios-filled/50/database.png" title="Database" />
-  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" />
+  <img src="https://img.icons8.com/clouds/100/python.png" title="Python" height="64" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/96/mysql-logo.png" title="MySQL" height="64" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/96/tensorflow.png" title="TensorFlow" height="64" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/96/pandas.png" title="Pandas" height="64" style="margin: 10px;" />
+  <img src="https://img.icons8.com/ios-filled/100/database.png" title="Database" height="64" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/96/power-bi.png" title="Power BI" height="64" style="margin: 10px;" />
 </p>
 
 ---
