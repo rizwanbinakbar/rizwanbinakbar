@@ -18,7 +18,7 @@ Innovative Data Engineer and Analyst with hands-on experience in real-world proj
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rizwanbinakbar/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="42" height="42" alt="LinkedIn" />
+    [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="42" height="42" alt="LinkedIn" />](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/rizwanbinakbar" target="_blank" rel="noreferrer">
