@@ -11,15 +11,21 @@ Innovative Data Engineer and Analyst with hands-on experience in real-world proj
 ### 🌐 Socials
 
 <p align="left">
-  <a href="https://www.github.com/rizwanbinakbar" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/rizwanbinakbar/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.kaggle.com/rizwanbinakbar" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="32" height="32" style="filter: invert(1);" />
-  </a>
+  <span style="margin-right: 15px;">
+    <a href="https://www.github.com/rizwanbinakbar" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </a>
+  </span>
+  <span style="margin-right: 15px;">
+    <a href="https://www.linkedin.com/in/rizwanbinakbar/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </a>
+  </span>
+  <span style="margin-right: 15px;">
+    <a href="https://www.kaggle.com/rizwanbinakbar" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="32" height="32" style="filter: invert(1);" />
+    </a>
+  </span>
 </p>
 
 ---
