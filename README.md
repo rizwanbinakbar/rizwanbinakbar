@@ -22,7 +22,7 @@ Innovative Data Engineer and Analyst with hands-on experience in real-world proj
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/rizwanbinakbar" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/windows/32/000000/kaggle.png" width="42" height="42" alt="Kaggle" />
+    <img src="https://img.icons8.com/color/48/000000/kaggle.png" width="42" height="42" alt="Kaggle" />
   </a>
 </p>
 
