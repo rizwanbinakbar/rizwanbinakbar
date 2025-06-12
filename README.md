@@ -1,4 +1,4 @@
-## 🚀 Data Analytics Engineer | AI Babysitter | Pipeline Craftsman
+##  Data Analytics Engineer | AI Babysitter | Pipeline Craftsman
 
 ### Student of Artificial Intelligence @ Emerson University
 
@@ -8,13 +8,25 @@ Innovative Data Engineer and Analyst with hands-on experience in real-world proj
 • Expertise in Advanced SQL  
 • In-depth understanding of ETL pipelines, Data Modeling, Orchestration & Warehousing  
 
-📬 **Email**: rizwanforbuissnes@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/rizwanbinakbar](https://www.linkedin.com/in/rizwanbinakbar/)  
-📊 **Kaggle**: [kaggle.com/rizwanbinakbar](https://www.kaggle.com/rizwanbinakbar/)
+### 🌐 Socials
+
+<p align="left">
+  <a href="https://www.github.com/rizwanbinakbar" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rizwanbinakbar/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/rizwanbinakbar" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="32" height="32" />
+  </a>
+</p>
 
 ---
 
-## 📂 Notable Projects
+##  Notable Projects
 
 | Project | Description |
 |--------|-------------|
@@ -24,7 +36,7 @@ Innovative Data Engineer and Analyst with hands-on experience in real-world proj
 
 ---
 
-## 🧠 Skills
+##  Skills
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
@@ -37,17 +49,22 @@ Innovative Data Engineer and Analyst with hands-on experience in real-world proj
 </p>
 
 ---
+##  Github Streaks & Stacks
 
-## 📈 GitHub Streaks & Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rizwanbinakbar&theme=radical&border_radius=5" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" alt="Anaconda" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizwanbinakbar&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanbinakbar&layout=compact&theme=radical" alt="Top Languages" />
+="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanbinakbar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
