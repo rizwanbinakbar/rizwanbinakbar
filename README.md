@@ -14,14 +14,14 @@
 
 ---
 
-##  Tech Stack & Tools
+## Tech Stack & Tools
 <p align="center">
-  <img src="assets/icons8-python.gif" title="Python" />
-  <img src="assets/icons8-mysql-24.png" title="MySQL" />
-  <img src="assets/icons8-tensorflow-48.png" title="TensorFlow" />
-  <img src="assets/icons8-pandas-48.png" title="Pandas" />
-  <img src="assets/icons8-database.gif" title="Pandas" />
-  <img src="assets/icons8-power-bi-2021-48.png" title="Power BI" />
+  <img src="https://img.icons8.com/clouds/100/python.png" title="Python" />
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL" />
+  <img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow" />
+  <img src="https://img.icons8.com/color/48/pandas.png" title="Pandas" />
+  <img src="https://img.icons8.com/ios-filled/50/database.png" title="Database" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" />
 </p>
 
 ---
