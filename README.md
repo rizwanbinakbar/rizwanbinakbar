@@ -1,5 +1,10 @@
 ##  Data Analytics Engineer | AI Babysitter | Pipeline Craftsman
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/rizwanbinakbar"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Scientist;Visionary%2C+Innovator+%26+Listener;Hands-on%2B+years+of+coding+experience;Always+learning+new+things&center=true&width=380&height=45"></a>
+</p>
+
 ### Student of Artificial Intelligence @ Emerson University
 
 Innovative Data Engineer and Analyst with hands-on experience in real-world projects.
