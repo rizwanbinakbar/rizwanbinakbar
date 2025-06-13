@@ -2,7 +2,9 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/rizwanbinakbar"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+and+AI+Engineer;Visionary%2C+Innovator+%26+Listener;Hands-on%2B+coding+experience;Always+learning+new+things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/rizwanbinakbar">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=Data+%26+AI+Engineer;Tech+Enthusiast+%7C+Problem+Solver+%7C+Deep+Thinker;Building+real-world+data+solutions;Learning%2C+Coding%2C+Growing+Every+Day">
+  </a>
 </p>
 
 ### Student of Artificial Intelligence @ Emerson University
