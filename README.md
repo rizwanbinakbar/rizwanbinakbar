@@ -1,4 +1,4 @@
-##  Data Analytics Engineer | AI Babysitter | Pipeline Craftsman
+##  Data Analytics Engineer | AI Solutions
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
