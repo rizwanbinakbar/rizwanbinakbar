@@ -152,18 +152,6 @@ _Automated data cleanising → Power BI dashbaord → report_
 
 **Tech:** `Data-Cleaning` `Power-query` `Excel` `Power BI`  • **Impact:** Assited in key decision-making
 
----
-
-## 🎯 What I'm Currently Cooking 👨‍💻
-
-<div align="center">
-
-### 🔥 Active Development
-
-- 🧠 **Expanding Multi-Agent LLM Research** - Pushing beyond token limitations
-- 🏈 **FPL Chip Strategy AI** - When to use your chips for maximum points
-- 🤖 **AI Industry Pulse** - Near production release with enterprise features
-- 📱 **Trading Platform v2.0** - Multi-party trading with advanced UI/UX
 
 ---
 
