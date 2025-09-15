@@ -120,97 +120,37 @@ class GradStudent:
 ## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=2000&color=F75C7E&center=true&vCenter=true&width=600&lines=🔬+Research+Breakthroughs;💻+Production+Systems;🤖+AI+Innovations;📱+Mobile+%26+AR+Apps" alt="Projects Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=2000&color=F75C7E&center=true&vCenter=true&width=600&lines=AI+automations;💻+Chatbots+Voice+calling+agents;🤖+AI+Solutions" alt="Projects Typing SVG" />
 </div>
 
-### 🎯 **Multi-Agent Path Navigation via LLM**
+### 🎯 **AI Voice call Agent**
 
-_First comprehensive study using LLMs for multi-agent pathfinding - achieved 94% success rate!_
+_Answeres FAQ's, checks availabilty, books appointments_
 
-[![Repo](https://img.shields.io/badge/🔗_View_Repo-Multi--Agent--Path--Navigation--via--LLM-blue?style=for-the-badge)](https://github.com/fireblaster000/Multi-Agent-Path-Navigation-via-LLM)
-[![Paper](https://img.shields.io/badge/📄_Research_Findings-Available-green?style=for-the-badge)](#)
+[![Repo](https://img.shields.io/badge/🔗_View_Repo-AI-Voice-Call-Agent-blue?style=for-the-badge)](https://github.com/rizwanbinakbar/AI_Voice_Call_Agent)
 
-**Tech:** `Python` `OpenAI GPT-3.5` `RWARE` `NLP` • **Impact:** Novel spatial reasoning with LLMs
-
----
-
-### 🏛️ **3D Historical Landmarks AR**
-
-_Complete pipeline: 2D images → 3D reconstruction → AR mobile app. Pantheon & Brandenburg Gate rebuilt!_
-
-[![Repo](https://img.shields.io/badge/🔗_View_Repo-3D--Historical--Landmarks--AR-blue?style=for-the-badge)](https://github.com/fireblaster000/3D-Reconstruction-of-Historical-Landmarks-with-AR-Deployment)
-
-<!-- [![Demo](https://img.shields.io/badge/📱_AR_Demo-Available-orange?style=for-the-badge)](#) -->
-
-**Tech:** `OpenCV` `Open3D` `Flutter` `SIFT` `Structure from Motion` • **Magic:** History comes alive in AR!
+**Tech:** `Python` `Google Calender/CRM` `OpenRouter API` `Make.com` `Vapi` **Impact:** Reducing time and errors
 
 ---
 
-### 🧠 **AI Learning Management System**
+### 🏛️ **End-to-end ETL Pipeline**
 
-_LLM-powered education platform: auto-grading, content generation, RAG-based Q&A for students & instructors_
+_Complete pipeline: Bronze layer → Solver layer → Gold layer_
 
-[![Repo](https://img.shields.io/badge/🔗_View_Repo-AI--Learning--Management--System-blue?style=for-the-badge)](https://github.com/Jawamegamind/AI-Learning-Management-System)
+[![Repo](https://img.shields.io/badge/🔗_View_Repo-3D--Historical--Landmarks--AR-blue?style=for-the-badge)](https://github.com/rizwanbinakbar/Sql-Data-warehouse-Project)
 
-<!-- [![Live](https://img.shields.io/badge/🌐_Live_Demo-Coming_Soon-yellow?style=for-the-badge)](#) -->
 
-**Tech:** `Next.js` `FastAPI` `Supabase` `Langchain` `LangGraph` • **Innovation:** Education meets AI
-
----
-
-### 🏈 **Fantasy Premier League ML Predictor**
-
-_Beat the algorithms! Ensemble models + real-time data scraping for optimal FPL decisions_
-
-[![Repo](https://img.shields.io/badge/🔗_View_Repo-FPL--ML--Predictor-blue?style=for-the-badge)](https://github.com/fireblaster000/Fantasy-Premier-League-ML-predictor)
-
-<!-- [![Stats](https://img.shields.io/badge/📊_Performance-Tracking_Live-green?style=for-the-badge)](#) -->
-
-**Tech:** `XGBoost` `LSTM` `Web Scraping` `FPL API` • **Goal:** Outsmart millions of FPL managers!
+**Tech:** `SQL` `MySQL` `Medallion-Architechture` `Data modeling` `Data-Wrangling` • **Magic:** Saved 12 hours/week of manual work!
 
 ---
 
-### 🤖 **AI Industry Pulse**
+### 🧠 **Power BI automated Dashboard & Report**
 
-_Multi-agent system: Research → Content → SEO → Deploy. Fully autonomous blog generation platform_
+_Automated data cleanising → Power BI dashbaord → report_
 
-![Repo](https://img.shields.io/badge/🔗_View_Repo-AI--Industry--Pulse-blue?style=for-the-badge)
-[![Beta](https://img.shields.io/badge/🚀_Beta_Release-Soon-purple?style=for-the-badge)](#)
+[![Repo](https://img.shields.io/badge/🔗_View_Repo-AI--Learning--Management--System-blue?style=for-the-badge)](https://github.com/rizwanbinakbar/HR-Analytics-Dashboard)
 
-**Tech:** `FastAPI` `React` `WebSocket` `OpenAI GPT-4o` • **Magic:** Watch AI agents collaborate live!
-
----
-
-### 📱 **Real-time Trading Platform**
-
-_Next-gen P2P trading with Socket.IO magic - live offers, multi-party trades, smart matching_
-
-[![Repo](https://img.shields.io/badge/🔗_View_Repo-Advanced--Trading--Platform-blue?style=for-the-badge)](https://github.com/fireblaster000/Trading_App_firstwebsite)
-[![Features](https://img.shields.io/badge/⚡_Real--time-Socket.IO_Powered-red?style=for-the-badge)](#)
-
-**Tech:** `Node.js` `Socket.IO` `React` `MongoDB` • **Vision:** Revolutionary peer-to-peer trading
-
----
-
-### 🔬 **Federated Learning Research**
-
-_Novel alignment techniques for heterogeneous data - achieved 11% accuracy improvement over baselines_
-
-[![Repo](https://img.shields.io/badge/🔗_View_Repo-Latent--Alignment--in--FL-blue?style=for-the-badge)](https://github.com/MSafiullah1/Latent-Alignment-in-FL)
-[![Results](https://img.shields.io/badge/📈_Results-+11%25_Accuracy-brightgreen?style=for-the-badge)](#)
-
-**Tech:** `PyTorch` `Federated Learning` `GANs` • **Breakthrough:** FedGHBL & FedAdversarial methods
-
----
-
-### 🧩 **SolverSphere C++ Suite**
-
-_Rubik's cube + Sudoku solver with 3D graphics, computer vision, OCR - the complete puzzle experience_
-
-[![Repo](https://img.shields.io/badge/🔗_View_Repo-SolverSphere-blue?style=for-the-badge)](https://github.com/fireblaster000/SolverSphere)
-[![Graphics](https://img.shields.io/badge/🎮_3D_Graphics-OpenGL_Powered-lightblue?style=for-the-badge)](#)
-
-**Tech:** `C++` `Qt5` `OpenGL` `OpenCV` `Tesseract OCR` • **Experience:** Puzzles meet cutting-edge tech
+**Tech:** `Data-Cleaning` `Power-query` `Excel` `Power BI`  • **Impact:** Assited in key decision-making
 
 ---
 
@@ -219,10 +159,6 @@ _Rubik's cube + Sudoku solver with 3D graphics, computer vision, OCR - the compl
 <div align="center">
 
 ### 🔥 Active Development
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=2000&color=32CD32&center=true&vCenter=true&width=600&lines=🏈+LSTM+Lineup+Predictions;🤖+Multi-Agent+Blog+Platform;📱+Enhanced+Trading+Features;🔬+Scaling+LLM+Research+Beyond+Limits" alt="Current Work" />
-
-</div>
 
 - 🧠 **Expanding Multi-Agent LLM Research** - Pushing beyond token limitations
 - 🏈 **FPL Chip Strategy AI** - When to use your chips for maximum points
@@ -242,16 +178,14 @@ _Rubik's cube + Sudoku solver with 3D graphics, computer vision, OCR - the compl
 
 ```javascript
 const coolFacts = [
-  "🎯 My Multi-Agent LLM can coordinate 2 robots with 94% success!",
-  "🏛️ I reconstructed the 2000-year-old Pantheon from just photos!",
-  "🧠 My AI LMS generates personalized flashcards for any subject!",
-  "⚽ My FPL bot analyzes 500+ players every gameweek!",
-  "🤖 I built AI agents that chat with each other via WebSocket!",
-  "📱 My AR app renders 3D landmarks in real-time on mobile!",
-  "🔬 My FL research beats Google's FedAvg by 11% accuracy!",
-  "🧩 I can solve any Rubik's cube with 3D OpenGL visualization!",
-  "💬 My trading platform handles 1000+ concurrent Socket connections!",
-  "📊 I detect SIFT features faster than you can blink! 👁️",
+"🤖 My AI voice agent books appointments & answers FAQs automatically!",
+"📊 I built end-to-end ETL pipelines that transform raw CRM/ERP data into insights!",
+"📈 My Power BI dashboards turn messy data into clear HR, Finance & E-commerce KPIs!",
+"⚡ I automated workflows using Make.com, UiPath & LangChain for real businesses!",
+"🗄️ I designed a 3-layer Data Warehouse (Bronze–Silver–Gold) for clean analytics!",
+"🌐 My GitHub Pages website showcases my personal + professional journey!",
+"📞 I integrated Google Calendar with AI calling bots for seamless scheduling!",
+"🔗 My automation workflows connect APIs, CRMs, and chatbots with zero manual effort!",
 ];
 
 console.log("🎯 " + coolFacts[Math.floor(Math.random() * coolFacts.length)]);
@@ -262,21 +196,19 @@ console.log("🎯 " + coolFacts[Math.floor(Math.random() * coolFacts.length)]);
 ### 🌟 Achievement Unlocked
 
 ```
-🎓 Graduate Student Status................ ✅ Dartmouth College
-🔬 Research Work.................. ✅ Multi-Agent LLM Study
-🚀 Production Systems.................... ✅ 3+ Live Applications (all taken down for now)
-📱 Mobile Apps........................... ✅ AR + Flutter Apps
-🤖 AI Models Trained.................... ✅ 15+ ML/DL Models
-🏆 Success Rate Achievements............. ✅ Up to 94% in MA coordination
-💻 Lines of Code........................ ✅ 50,000+ LOC and counting
-⭐ GitHub Stars Earned.................. ✅ Growing open source impact
+🎓 UnderGrad Student Status................ ✅ Emerson University
+🚀 AI & Automation Solutions............. ✅ AI Voice Assistant, ETL Pipelines, Dashboards  
+📊 Business Intelligence................ ✅ 3+ Power BI Dashboards (HR, Finance, E-Commerce)  
+🗄️ Data Engineering...................... ✅ End-to-End Data Warehouse (Bronze–Silver–Gold)  
+🤖 AI Models & Agents.................... ✅ Built ML/DL models + LangChain AI Agents  
+⚡ Workflow Automation................... ✅ Make.com, UiPath, n8n, LangChain integrations  
+💻 Code Contributions.................... ✅ 15,000+ LOC across Python, SQL, Automation  
 ```
 
 ### 🔮 My Next Level Goals
 
-- 📝 **Conference Publications** in NeurIPS/ICML/ICLR
-- 🚀 **Startup Launch** with AI-powered platform
-- 🌍 **Open Source Impact** with 1000+ GitHub stars
+- 🚀 **Big-Tech** Agentic AI Engineer
+- 🌍 **Open Source Impact** with 100+ GitHub stars
 
 </div>
 
@@ -286,11 +218,11 @@ console.log("🎯 " + coolFacts[Math.floor(Math.random() * coolFacts.length)]);
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fireblaster000&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rizwanbinakbar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true" />
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=fireblaster000&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2" />
+<img src="https://github-profile-trophy.vercel.app/?username=rizwanbinakbar&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2" />
 
 </div>
 
@@ -300,16 +232,14 @@ console.log("🎯 " + coolFacts[Math.floor(Math.random() * coolFacts.length)]);
 
 <div align="center">
 
-**🎓 Graduate Student | 🔬 Research Enthusiast | 💻 Full Stack Developer | 🚀 Always Building**
+**🎓 AI UnderGrad | 🤖 AI Enthusiast | 💻 Data Solutions | 🚀 Always Building**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-ibrahim-farrukh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](muhammad.ibrahim.farrukh.gr@dartmouth.edu)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)  
-<sub><sup>🚀 Coming Soon!</sup></sub>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwanbinakbar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rizwanforbuissnes@gmail.com)  
 
 ### 💬 I Love Discussing
 
-🤖 **AI & Machine Learning** • 🔬 **Research Opportunities** • 🎯 **Multi-Agent Systems** • 👁️ **Computer Vision** • 📱 **Mobile & AR Development** • 🏈 **Sports Analytics** • 🚀 **Startup Ideas**
+🤖 **AI & Machine Learning** • 🔬 **Data Solutions** • 🏈 **Data Analytics** • 🚀 **Startup Ideas**
 
 </div>
 
@@ -317,17 +247,11 @@ console.log("🎯 " + coolFacts[Math.floor(Math.random() * coolFacts.length)]);
 
 <div align="center">
 
-### 🎵 Currently Coding To
-
-[![Spotify](https://img.shields.io/badge/Spotify-Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
 
 ### ✨ Daily Motivation
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Motivation is irrelevant. I show up, no matter what.
 
-### 🎯 My Philosophy
-
-> _"The best way to predict the future is to invent it. The best way to invent it is to research it first."_ - Me, probably 😄
 
 **Thanks for stopping by! Let's build the future together! 🚀**
 
