@@ -127,7 +127,7 @@ class GradStudent:
 
 _Answeres FAQ's, checks availabilty, books appointments_
 
-[![Repo](https://img.shields.io/badge/🔗_View_Repo-AI-Voice-Call-Agent-blue?style=for-the-badge)](https://github.com/rizwanbinakbar/AI_Voice_Call_Agent)
+[![Repo](https://img.shields.io/badge/🔗View_Repo-AI-Voice-Call-Agent-blue?style=for-the-badge)](https://github.com/rizwanbinakbar/AI_Voice_Call_Agent)
 
 **Tech:** `Python` `Google Calender/CRM` `OpenRouter API` `Make.com` `Vapi` **Impact:** Reducing time and errors
 
