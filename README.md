@@ -127,7 +127,7 @@ class GradStudent:
 
 _Answeres FAQ's, checks availabilty, books appointments_
 
-[![Repo](https://img.shields.io/badge/🔗View_Repo-AI-Voice-Call-Agent-blue?style=for-the-badge)](https://github.com/rizwanbinakbar/AI_Voice_Call_Agent)
+[![Repo](https://img.shields.io/badge/🔗_View_Repo-AI--Voice--Call--Agent-blue?style=for-the-badge)](https://github.com/rizwanbinakbar/AI_Voice_Call_Agent)
 
 **Tech:** `Python` `Google Calender/CRM` `OpenRouter API` `Make.com` `Vapi` **Impact:** Reducing time and errors
 
@@ -137,7 +137,7 @@ _Answeres FAQ's, checks availabilty, books appointments_
 
 _Complete pipeline: Bronze layer → Solver layer → Gold layer_
 
-[![Repo](https://img.shields.io/badge/🔗_View_Repo-3D--Historical--Landmarks--AR-blue?style=for-the-badge)](https://github.com/rizwanbinakbar/Sql-Data-warehouse-Project)
+[![Repo](https://img.shields.io/badge/🔗_View_Repo-End--to--end--Pipeline-blue?style=for-the-badge)](https://github.com/rizwanbinakbar/Sql-Data-warehouse-Project)
 
 
 **Tech:** `SQL` `MySQL` `Medallion-Architechture` `Data modeling` `Data-Wrangling` • **Magic:** Saved 12 hours/week of manual work!
@@ -148,7 +148,7 @@ _Complete pipeline: Bronze layer → Solver layer → Gold layer_
 
 _Automated data cleanising → Power BI dashbaord → report_
 
-[![Repo](https://img.shields.io/badge/🔗_View_Repo-AI--Learning--Management--System-blue?style=for-the-badge)](https://github.com/rizwanbinakbar/HR-Analytics-Dashboard)
+[![Repo](https://img.shields.io/badge/🔗_View_Repo-Power--BI--automated--Dashboard-blue?style=for-the-badge)](https://github.com/rizwanbinakbar/HR-Analytics-Dashboard)
 
 **Tech:** `Data-Cleaning` `Power-query` `Excel` `Power BI`  • **Impact:** Assited in key decision-making
 
