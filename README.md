@@ -196,7 +196,13 @@ console.log("🎯 " + coolFacts[Math.floor(Math.random() * coolFacts.length)]);
 ### 🔮 My Next Level Goals
 
 - 🚀 **Big-Tech** Agentic AI Engineer
-- 🌍 **Open Source Impact** with 100+ GitHub stars
+- 🌍 **Changing the World for better**
+
+### 🔮 Open-Source Impact
+
+- **Kaggle Comtributor**
+- **1000+** Linkedin Followers
+- **15+** repos and **19+** github stars ⭐
 
 </div>
 
