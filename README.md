@@ -57,10 +57,10 @@ class GradStudent:
 
 ## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizwanbinakbar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&hide_rank=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizwanbinakbar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&hide_rank=false"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanbinakbar&layout=compact&hide_border=true&theme=radical&langs_count=10"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?userrizwanbinakbar&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rizwanbinakbar&theme=radical&hide_border=true"/>
 
 </div>
 
