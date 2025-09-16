@@ -8,7 +8,7 @@
   
   ![Profile Views](https://img.shields.io/badge/Profile%20Views-6969-blueviolet?style=for-the-badge)
   ![GitHub followers](https://img.shields.io/badge/Followers-999-blue?style=for-the-badge)
-  ![GitHub stars](https://img.shields.io/badge/Stars-1234-yellow?style=for-the-badge)
+  ![GitHub stars](https://img.shields.io/badge/Stars-578-yellow?style=for-the-badge)
   
 </div>
 
@@ -202,7 +202,7 @@ console.log("🎯 " + coolFacts[Math.floor(Math.random() * coolFacts.length)]);
 
 - **Kaggle Comtributor**
 - **1000+** Linkedin Followers
-- **15+** repos and **19+** github stars ⭐
+- **15+** repos and **580+** github stars ⭐
 
 </div>
 
