@@ -7,8 +7,8 @@
 <div align="center">
   
   ![Profile Views](https://img.shields.io/badge/Profile%20Views-6969-blueviolet?style=for-the-badge)
-  ![GitHub followers](https://img.shields.io/github/followers/rizwanbinakbar?style=for-the-badge&color=blue)
-  ![GitHub stars](https://img.shields.io/github/stars/rizwanbinakbar?style=for-the-badge&color=yellow)
+  ![GitHub followers](https://img.shields.io/badge/Followers-999-blue?style=for-the-badge)
+  ![GitHub stars](https://img.shields.io/badge/Stars-1234-yellow?style=for-the-badge)
   
 </div>
 
