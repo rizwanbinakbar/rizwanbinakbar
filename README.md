@@ -8,7 +8,7 @@
   
   ![Profile Views](https://img.shields.io/badge/Profile%20Views-6969-blueviolet?style=for-the-badge)
   ![GitHub followers](https://img.shields.io/badge/Followers-999-blue?style=for-the-badge)
-  ![GitHub stars](https://img.shields.io/badge/Stars-578-yellow?style=for-the-badge)
+  ![GitHub stars](https://img.shields.io/badge/Stars-582-yellow?style=for-the-badge)
   
 </div>
 
