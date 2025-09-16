@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=fireblaster000&color=blueviolet&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=rizwanbinakbar&color=blueviolet&style=for-the-badge)
   ![GitHub followers](https://img.shields.io/github/followers/rizwanbinakbar?style=for-the-badge&color=blue)
   ![GitHub stars](https://img.shields.io/github/stars/rizwanbinakbar?style=for-the-badge&color=yellow)
   
