@@ -20,7 +20,7 @@
 
 ## 🎓 About Me
 
-**UnderGad Student @ Emerson University** pursuing **BS in Artificial Intelligence** | **Applied Data Engineer** | **AI-automated Solutions**
+**UnderGrad Student @ Emerson University** pursuing **BS in Artificial Intelligence** | **Applied Data Engineer** | **AI-automated Solutions**
 
 I'm passionate about bridging cutting-edge AI solutions with real-world applications. From **Complex AI systmes** to **Data-driven Decision making**, I love solving complex problems that push the boundaries of what's possible.
 
