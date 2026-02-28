@@ -1,7 +1,20 @@
 # Hi there, I'm Rizwan Khan 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+and+AI+Solutions;Chatbots+and+Voice+Agents;Agentic+AI+Systmes💻;Building+the+Future+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+and+AI+Solutions;Power+BI+and+Data+Engineering;Agentic+AI+Systmes💻;Building+the+Future+with+AI" alt="Typing SVG" />
+</div>
+
+</div>
+
+<hr style="border: 1px solid #3498db; margin: 20px 0;">
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/" target="_blank">
+    <img src="/resources/grid-snake.svg" alt="Azzar Logo"
+         style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
+  </a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=1999AZZAR&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" style="height: 30px;">
 </div>
 
 <div align="center">
@@ -55,10 +68,9 @@ class GradStudent:
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizwanbinakbar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&hide_rank=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanbinakbar&layout=compact&hide_border=true&theme=radical&langs_count=10"/>
+
 
 <img src="https://streak-stats.vercel.app/?user=rizwanbinakbar&theme=radical&hide_border=true"/>
 
@@ -68,7 +80,7 @@ class GradStudent:
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -76,22 +88,16 @@ class GradStudent:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
 ### AI/ML & Data Science
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
 
 
 ### Databases & Storage
@@ -197,14 +203,12 @@ console.log("🎯 " + coolFacts[Math.floor(Math.random() * coolFacts.length)]);
 
 ### 🔮 My Next Level Goals
 
-- 🚀 **Big-Tech** Agentic AI Engineer
-- 🌍 **Changing the World for better**
-
-### 🔮 Open-Source Impact
+-  **Big-Tech** Data Engineer
+### Open-Source Impact
 
 - **Kaggle Comtributor**
 - **1000+** Linkedin Followers
-- **15+** repos and **580+** github stars ⭐
+- **18+** repos and **33+** github stars ⭐
 
 </div>
 
@@ -216,12 +220,6 @@ console.log("🎯 " + coolFacts[Math.floor(Math.random() * coolFacts.length)]);
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizwanbinakbar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true" />
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=rizwanbinakbar&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2" />
-
-</div>
-
 ---
 
 ## 🤝 Let's Connect!
@@ -231,7 +229,7 @@ console.log("🎯 " + coolFacts[Math.floor(Math.random() * coolFacts.length)]);
 **🎓 AI UnderGrad | 🤖 AI Enthusiast | 💻 Data Solutions | 🚀 Always Building**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwanbinakbar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rizwanforbuissnes@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rizwanfordata@gmail.com)  
 
 ### 💬 I Love Discussing
 
