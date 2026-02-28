@@ -5,23 +5,22 @@
 </div>
 
 </div>
+</div>
 
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/" target="_blank">
-    <img src="/resources/grid-snake.svg" alt="Azzar Logo"
+  <a href="[https://rizwanbinakbar.notion.site/r]" target="_blank">
+    <img src="/assets/grid-snake.svg"
          style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
   </a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=1999AZZAR&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" style="height: 30px;">
 </div>
 
 <div align="center">
   
-  ![Profile Views](https://img.shields.io/badge/Profile%20Views-8576-blueviolet?style=for-the-badge)
-  ![GitHub followers](https://img.shields.io/badge/Followers-107-blue?style=for-the-badge)
-  ![GitHub stars](https://img.shields.io/badge/Stars-582-yellow?style=for-the-badge)
+  ![Profile Views](https://img.shields.io/badge/Profile%20Views-11052-blueviolet?style=for-the-badge)
+  ![GitHub followers](https://img.shields.io/badge/Followers-8-blue?style=for-the-badge)
+  ![GitHub stars](https://img.shields.io/badge/Stars-33-yellow?style=for-the-badge)
   
 </div>
 
