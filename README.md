@@ -1,10 +1,14 @@
 # Hi there, I'm Rizwan Khan 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+and+AI+Solutions;Power+BI+and+Data+Engineering;Agentic+AI+Systmes💻;Building+the+Future+with+AI" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=header&text=&fontSize=0"/>
 </div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+and+AI+Solutions;Power+BI+and+Data+Engineering;Agentic+AI+Systmes💻;" alt="Typing SVG" />
+</div>
+
 </div>
 
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
@@ -18,15 +22,10 @@
 
 <div align="center">
   
-  ![Profile Views](https://img.shields.io/badge/Profile%20Views-11052-blueviolet?style=for-the-badge)
+  ![Profile Views](https://img.shields.io/badge/Profile%20Views-1152-blueviolet?style=for-the-badge)
   ![GitHub followers](https://img.shields.io/badge/Followers-8-blue?style=for-the-badge)
   ![GitHub stars](https://img.shields.io/badge/Stars-33-yellow?style=for-the-badge)
   
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=header&text=&fontSize=0"/>
-</div>
 
 ---
 
