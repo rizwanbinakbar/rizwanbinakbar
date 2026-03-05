@@ -24,7 +24,7 @@
   
   ![Profile Views](https://img.shields.io/badge/Profile%20Views-1152-blueviolet?style=for-the-badge)
   ![GitHub followers](https://img.shields.io/badge/Followers-8-blue?style=for-the-badge)
-  ![GitHub stars](https://img.shields.io/badge/Stars-33-yellow?style=for-the-badge)
+  ![GitHub stars](https://img.shields.io/badge/Stars-34-yellow?style=for-the-badge)
   
 
 ---
