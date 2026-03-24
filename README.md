@@ -23,7 +23,7 @@
 <div align="center">
   
   ![Profile Views](https://img.shields.io/badge/Profile%20Views-1152-blueviolet?style=for-the-badge)
-  ![GitHub followers](https://img.shields.io/badge/Followers-8-blue?style=for-the-badge)
+  ![GitHub followers](https://img.shields.io/badge/Followers-9-blue?style=for-the-badge)
   ![GitHub stars](https://img.shields.io/badge/Stars-37-yellow?style=for-the-badge)
   ![Available for new opportunities](https://img.shields.io/badge/-Available%20for%20new%20opportunities-1a1a2e?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4IDgiPjxjaXJjbGUgY3g9IjQiIGN5PSI0IiByPSI0IiBmaWxsPSIjMmRiYTRlIi8+PC9zdmc+)
   
